@@ -3,7 +3,7 @@
 A full-stack real-time chat application built with the MERN stack and Socket.io.
 
 ## 🚀 Live Demo
-- **Frontend:** [Live on Vercel](https://your-vercel-link.vercel.app)
+- **Frontend:** [Live on Vercel](https://nexsoft-chat-app.vercel.app/)
 - **Backend:** Coming Soon
 - **Demo Video:** Coming Soon
 
